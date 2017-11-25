@@ -1,6 +1,6 @@
-# Cowsay Container - v0.5
-# docker run -it -v /tmp:/cow weithenn/cowsay:0.4 bash
-FROM alpine:latest
+# Cowsay Container - v0.6
+# docker run -it -v /tmp:/cow weithenn/cowsay:0.6 bash
+FROM alpine:3.6
 
 MAINTAINER weithenn@weithenn.org 
 
